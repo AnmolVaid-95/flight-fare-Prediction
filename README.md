@@ -9,6 +9,7 @@ This Project uses ML, python and flask to predict flight fare.
 - Motivation
 - Installation
 - Deployement on Heroku
+- Technologies Used
 - Future scope of project
 
 # Demo
@@ -40,15 +41,18 @@ Login or signup in order to create virtual app. You can either connect your gith
 
 Our next step would be to follow the instruction given on Heroku Documentation to deploy a web app.
 
+# Technologies Used
+
+![image](https://user-images.githubusercontent.com/79400466/147852214-b2eff13b-914e-43eb-84ad-f3492cc69229.png)
+
 # Future Scope
 
 - Use multiple Algorithms
 - Optimize Flask app.py
 - Front-End
 
-# Technologies Used
 
-![image](https://user-images.githubusercontent.com/79400466/147852168-dfbe9a8f-958c-4ba5-8d55-f54f5b9a6a4b.png)
+
 
 
 
