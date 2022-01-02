@@ -47,9 +47,11 @@ As per selected trained model is dumped to pickled format for app development.
 
 Link: https://flight-test-011.herokuapp.com/predict
 
-![image](https://user-images.githubusercontent.com/79400466/147852132-00aa62ad-f281-481c-8ffc-983b345b10a9.png)
+![image](https://user-images.githubusercontent.com/79400466/147877803-25e99b05-1457-498c-b6a0-f891d1cea5a7.png)
 
-![image](https://user-images.githubusercontent.com/79400466/147852135-63110628-cf1e-43ee-86cd-f111be6fc21a.png)
+
+![image](https://user-images.githubusercontent.com/79400466/147877816-c41d83bf-b986-496b-bb64-e9facd432826.png)
+
 
 
 # Motivation
