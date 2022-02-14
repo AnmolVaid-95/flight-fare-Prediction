@@ -45,12 +45,13 @@ As per selected trained model is dumped to pickled format for app development.
 
 # Demo
 
-Link: https://flight-test-011.herokuapp.com/predict
-
-![image](https://user-images.githubusercontent.com/79400466/147877803-25e99b05-1457-498c-b6a0-f891d1cea5a7.png)
+Link: https://flight-fare-predict-009.herokuapp.com/predict
 
 
-![image](https://user-images.githubusercontent.com/79400466/147877816-c41d83bf-b986-496b-bb64-e9facd432826.png)
+![image](https://user-images.githubusercontent.com/79400466/153881327-e354e943-b5f1-47ac-9609-5715c995e17b.png)
+
+
+![image](https://user-images.githubusercontent.com/79400466/153881402-7ae571fe-e30d-4ff2-89ea-fd12771a2e25.png)
 
 
 
